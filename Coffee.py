@@ -61,7 +61,7 @@ elif eat_loc == "Go":
 total_price = price+price2+price3
 
 print("----------------------------")
-print(price)
-print(price2)
-print(price3)
+#print(price)
+#print(price2)
+#print(price3)
 print("Total Cost: $" + str(total_price))
